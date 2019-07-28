@@ -1,5 +1,5 @@
 class Teacher < User
-  KNOWLEDGE = ["a String is a type of data in Ruby",
+  KNOWLEDGE = ["
                "programming is hard, but it's worth it",
                "javacsript async web request",
                "Ruby method call definition",
