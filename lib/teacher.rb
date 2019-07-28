@@ -1,5 +1,5 @@
 class Teacher < User
-  KNOWLEDGE = ["Disney/’s The Lion King is the first Broadway show to gross one billion dollars in revenue",
+  KNOWLEDGE = ["Disney/’s The Lion King is the first Broadway show to gross one billion dollars in revenue", "a Broadway theater must seat at least 500", 
   
   
                "programming is hard, but it's worth it",
