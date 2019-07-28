@@ -6,5 +6,5 @@ class Teacher < User
 
      KNOWLEDGE.sample
 
-   end
+end
 	
